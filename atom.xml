@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-16T12:49:05.295Z</updated>
+  <updated>2023-02-18T06:47:07.165Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,24 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Report</title>
+    <title>笔记</title>
     <link href="http://example.com/2023/02/16/Report/"/>
     <id>http://example.com/2023/02/16/Report/</id>
     <published>2023-02-16T12:40:26.000Z</published>
-    <updated>2023-02-16T12:49:05.295Z</updated>
+    <updated>2023-02-18T06:47:07.165Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="2015年历史研报笔记"><a href="#2015年历史研报笔记" class="headerlink" title="2015年历史研报笔记"></a>2015年历史研报笔记</h2><h3 id="1"><a href="#1" class="headerlink" title="1."></a>1.</h3>]]></content>
+    <content type="html"><![CDATA[<h2 id="2015年"><a href="#2015年" class="headerlink" title="2015年"></a>2015年</h2><h3 id="1-支持向量机"><a href="#1-支持向量机" class="headerlink" title="1. 支持向量机"></a>1. 支持向量机</h3>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;2015年历史研报笔记&quot;&gt;&lt;a href=&quot;#2015年历史研报笔记&quot; class=&quot;headerlink&quot; title=&quot;2015年历史研报笔记&quot;&gt;&lt;/a&gt;2015年历史研报笔记&lt;/h2&gt;&lt;h3 id=&quot;1&quot;&gt;&lt;a href=&quot;#1&quot; class=&quot;header</summary>
+    <summary type="html">&lt;h2 id=&quot;2015年&quot;&gt;&lt;a href=&quot;#2015年&quot; class=&quot;headerlink&quot; title=&quot;2015年&quot;&gt;&lt;/a&gt;2015年&lt;/h2&gt;&lt;h3 id=&quot;1-支持向量机&quot;&gt;&lt;a href=&quot;#1-支持向量机&quot; class=&quot;headerlink&quot; title=</summary>
       
     
     
     
+    <category term="研报归档" scheme="http://example.com/categories/%E7%A0%94%E6%8A%A5%E5%BD%92%E6%A1%A3/"/>
     
-    <category term="学习记录" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="2015" scheme="http://example.com/tags/2015/"/>
     
   </entry>
   
